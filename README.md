@@ -37,20 +37,22 @@ a. Curs A **(3 temes)**, Curs B **(5 temes)**
 ![Edición de perfil en Moodle](unnamed(6).png)
 
 *3. Edita un curs:*
-Afegeix un document PDF.
+**Afegeix un document PDF.**
 
 
-Modifica el títol d'un tema.
+**Modifica el títol d'un tema.**
 
 
-Explora opcions amb "Activar edició".
+**Explora opcions amb "Activar edició".**
 
 ![Edición de perfil en Moodle](unnamed(7).png)
 
 *4.Crea usuaris:*
+
 a. Afegeix manualment un usuari anomenat Bob 
 
 **(Administració del lloc > Usuaris > Comptes > Afegeix un usuari)**.
+
 ![Edición de perfil en Moodle](unnamed(8).png)
 
 b. Descarrega el CSV i edita com l'exemple i després importa 10 alumnes via CSV.
@@ -75,16 +77,20 @@ El **curs B** requereix registre manual d'usuaris.
 
 b. 
 Assigna Bob com a professor del **curs B** i matricula-hi els alumnes del CSV.
+
 Comprova que el **curs A** és accessible sense autenticació i que el curs B requereix iniciar sessió.
 
 ![Edición de perfil en Moodle](unnamed(13).png)
 
 *6. Modifica l'aparença del lloc:* 
 Instal·la i activa un nou tema 
+
 **(Administració del lloc > Connectors > Instal·lar complement)**.
 
 Personalitza capçalera i peu de pàgina 
+
 **(Administració del lloc > Aparença > Temes > Selector de temes)**.
+
 ![Edición de perfil en Moodle](unnamed(14).png)
 ![Edición de perfil en Moodle](unnamed(15).png)
 ![Edición de perfil en Moodle](unnamed(17).png)
@@ -100,24 +106,32 @@ Afegeix una tasca que requereixi un fitxer PDF amb una data d'entrega oberta.
 
 *CONTINGUTS*
 *1. Crea una UF (Unitat Formativa):*
+
 Afegeix una etiqueta amb el nom de la UF.
+
 Mou els seus continguts cap a la dreta per agrupar-los.
+
 *2. Dins la UF, crea 2 NF** **(Nuclis Formatius)***:*
+
 Afegeix activitats i recursos dins de cada NF.
-![Edición de perfil en Moodle](unnamed(23).png)
-![Edición de perfil en Moodle](unnamed(24).png)
 
 *3. Afegir activitats a la UF:*
+
 Activitats magistrals: Pujada de materials **(PDFs, vídeos, etc.)**.
+
 Activitats avaluables:
+
 Entrega de fitxer **(Tasca on els alumnes enviïn un document)**.
+
 Qüestionari **(Amb preguntes tipus test, resposta curta, etc.)**.
+
 ![Edición de perfil en Moodle](unnamed(24).png)
 ![Edición de perfil en Moodle](unnamed(25).png)
 
 
 
 4. Per últim pots entrar al teu Moodle com a professor i pots modificar la nota dels teus alumnes.
+   
 ![Edición de perfil en Moodle](unnamed(26).png)
 ![Edición de perfil en Moodle](unnamed(27).png)
 ![Edición de perfil en Moodle](unnamed(28).png)
