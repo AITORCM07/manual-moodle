@@ -108,6 +108,7 @@ Afegeix una tasca que requereixi un fitxer PDF amb una data d'entrega oberta.
 ![Edición de perfil en Moodle](unnamed(22).png)
 
 *CONTINGUTS*
+
 *1. Crea una UF (Unitat Formativa):*
 
 Afegeix una etiqueta amb el nom de la UF.
