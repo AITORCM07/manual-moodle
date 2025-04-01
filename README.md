@@ -1,7 +1,7 @@
 # manual-moodle
 1. Inicia sessió com a administrador i fes els canvis inicials:
 a. Modifica el teu correu, contrasenya i afegeix un avatar (Perfil > Editar o Preferències).
-![Edición de perfil en Moodle](moodle/unnamed.png)
+![Edición de perfil en Moodle](unnamed.png)
 b. Canvia el nom del lloc i configura la pàgina principal per ocultar contingut als no autenticats (Administració del lloc > Primera plana > Paràmetres).
 
 
