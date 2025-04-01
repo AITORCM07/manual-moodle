@@ -96,8 +96,8 @@ Personalitza capçalera i peu de pàgina
 *8. Afegir contingut al curs A com si fossis un professor:*
 Crea activitats i recursos.
 Afegeix una tasca que requereixi un fitxer PDF amb una data d'entrega oberta.
+![Edición de perfil en Moodle](unnamed(21).png)
 ![Edición de perfil en Moodle](unnamed(22).png)
-![Edición de perfil en Moodle](unnamed(23).png)
 
 *CONTINGUTS*
 *1. Crea una UF (Unitat Formativa):*
@@ -105,7 +105,7 @@ Afegeix una etiqueta amb el nom de la UF.
 Mou els seus continguts cap a la dreta per agrupar-los.
 *2. Dins la UF, crea 2 NF** **(Nuclis Formatius)***:*
 Afegeix activitats i recursos dins de cada NF.
-
+![Edición de perfil en Moodle](unnamed(23).png)
 ![Edición de perfil en Moodle](unnamed(24).png)
 
 *3. Afegir activitats a la UF:*
@@ -113,6 +113,7 @@ Activitats magistrals: Pujada de materials **(PDFs, vídeos, etc.)**.
 Activitats avaluables:
 Entrega de fitxer **(Tasca on els alumnes enviïn un document)**.
 Qüestionari **(Amb preguntes tipus test, resposta curta, etc.)**.
+![Edición de perfil en Moodle](unnamed(24).png)
 ![Edición de perfil en Moodle](unnamed(25).png)
 ![Edición de perfil en Moodle](unnamed(26).png)
 
