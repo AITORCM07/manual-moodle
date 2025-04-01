@@ -99,8 +99,11 @@ Personalitza capçalera i peu de pàgina
 ![Edición de perfil en Moodle](unnamed(20).png)
 
 *8. Afegir contingut al curs A com si fossis un professor:*
+
 Crea activitats i recursos.
+
 Afegeix una tasca que requereixi un fitxer PDF amb una data d'entrega oberta.
+
 ![Edición de perfil en Moodle](unnamed(21).png)
 ![Edición de perfil en Moodle](unnamed(22).png)
 
@@ -135,4 +138,3 @@ Qüestionari **(Amb preguntes tipus test, resposta curta, etc.)**.
 ![Edición de perfil en Moodle](unnamed(26).png)
 ![Edición de perfil en Moodle](unnamed(27).png)
 ![Edición de perfil en Moodle](unnamed(28).png)
-![Edición de perfil en Moodle](unnamed(29).png)
