@@ -2,29 +2,29 @@
 *1. Inicia sessió com a administrador i fes els canvis inicials:*
 
 a. Modifica el teu correu, contrasenya i afegeix un avatar 
-**(Perfil > Editar o Preferències)**.
 
+**(Perfil > Editar o Preferències)**.
 ![Edición de perfil en Moodle](unnamed.png)
 
 b. Canvia el nom del lloc i configura la pàgina principal per ocultar contingut als no autenticats 
-**(Administració del lloc > Primera plana > Paràmetres)**.
 
+**(Administració del lloc > Primera plana > Paràmetres)**.
 ![Edición de perfil en Moodle](unnamed(1).png)
 
 c. Comprova la franja horària 
-**(Administració del lloc > Ubicació > Paràmetres)**.
 
+**(Administració del lloc > Ubicació > Paràmetres)**.
 ![Edición de perfil en Moodle](unnamed(2).png)
 
 
 d. Canvia l'idioma i activa la detecció automàtica 
-**(Administració del lloc > Idioma > Paràmetres)**.
 
+**(Administració del lloc > Idioma > Paràmetres)**.
 ![Edición de perfil en Moodle](unnamed(3).png)
 
 e. Modifica la política de contrasenyes perquè requereixin 4 caràcters amb majúscules, minúscules i números 
-**(Administració del lloc > Seguretat > Normatives del lloc)**.
 
+**(Administració del lloc > Seguretat > Normatives del lloc)**.
 ![Edición de perfil en Moodle](unnamed(4).png)
 
 
