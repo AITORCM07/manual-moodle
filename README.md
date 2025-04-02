@@ -67,6 +67,7 @@ c. Elimina 2 alumnes
 
 
 *5. Matricula usuaris als cursos:*
+
 a. 
 Fes que el **curs A** sigui públic sense inscripcions.
 El **curs B** requereix registre manual d'usuaris.
@@ -78,7 +79,7 @@ El **curs B** requereix registre manual d'usuaris.
 b. 
 Assigna Bob com a professor del **curs B** i matricula-hi els alumnes del CSV.
 
-Comprova que el **curs A** és accessible sense autenticació i que el curs B requereix iniciar sessió.
+Comprova que el **curs A** és accessible sense autenticació i que el **curs B** requereix iniciar sessió.
 
 ![Edición de perfil en Moodle](unnamed(13).png)
 
